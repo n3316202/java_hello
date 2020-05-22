@@ -28,5 +28,6 @@ public class Hello {
 		
 		System.out.println("최대값은 " +  max);
 	}
+	//
 
 }
