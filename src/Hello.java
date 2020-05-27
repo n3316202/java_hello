@@ -26,7 +26,7 @@ public class Hello {
 			}			
 		}
 		
-		System.out.println("글자깨짐" +  max);
+		System.out.println("AAA" +  max);
 	}
 	
 
