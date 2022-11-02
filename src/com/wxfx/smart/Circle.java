@@ -1,6 +1,6 @@
 package com.wxfx.smart;
 
-//커밋테스트
+
 public class Circle {
     double rad;
     final double PI;
