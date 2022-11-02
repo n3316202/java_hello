@@ -1,6 +1,20 @@
+import java.util.*;
+
+
+
+import com.fxmx.simple.*;
+
+
 class Constants {
     public static void main(String[] args) {
-        final int MAX_SIZE = 100;
+        
+    	Scanner scanner = new Scanner(System.in);
+    	
+    	Circle circle = new Circle(r);
+    	
+    	com.wxfx.smart.Circle circle2 = new com.wxfx.smart.Circle(r);
+    	
+    	final int MAX_SIZE = 100;
         final char CONST_CHAR = '»ó';
         final int CONST_ASSIGNED;
 
